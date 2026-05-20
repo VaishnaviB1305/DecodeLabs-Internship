@@ -33,7 +33,7 @@ Project Files
 
 * `Dataset for Data Analytics.xlsx` → Original unprocessed dataset
 * `cleaned_data.xlsx` → Final cleaned and structured dataset
-* `DataCleaningProject.ipynb` → Jupyter Notebook containing the complete cleaning process and code
+* `Project1.ipynb` → Jupyter Notebook containing the complete cleaning process and code
 
 ---
 
